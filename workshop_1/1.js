@@ -7,5 +7,3 @@
 // commit 5
 
 // commit a
-// commit b
-// commit c
